@@ -31,36 +31,25 @@ Getting started with Hugo is relatively straightforward. Here are the basic step
 ## Frequently Asked Questions
 
 1. What programming languages does Hugo use?
+
 Hugo is built using the Go programming language.
 
 2. Do I need to know how to code to use Hugo?
+
 While it's helpful to have some basic coding knowledge, you don't need to be an expert to use Hugo.
 
 3. Is Hugo free to use?
+
 Yes, Hugo is free and open-source.
 
 4. Can I use my own domain name with a Hugo website?
+
 Yes, you can use your own domain name with a Hugo website.
 
 5. Is Hugo suitable for large websites?
+
 Yes, Hugo is suitable for building large websites as it can handle thousands of pages and has a fast build time.
 
-6. Can I integrate Hugo with a content management system (CMS)?
-Yes, you can integrate Hugo with a CMS like Forestry or Netlify CMS to make it easier to manage your content.
-
-7. What kind of websites can I create with Hugo?
-You can create a wide range of websites with Hugo, including blogs, portfolios, e-commerce sites, and more.
-
-8. Does Hugo provide any SEO features?
-Yes, Hugo provides several built-in SEO features like customizable meta tags, clean URLs, and automatic sitemap generation.
-
-9. Can I add custom functionality to my Hugo website?
-Yes, you can add custom functionality to your Hugo website by using Hugo's built-in functions, creating custom shortcodes, or adding JavaScript and CSS files to your website.
-
-10. Is Hugo beginner-friendly?
-While Hugo has a bit of a learning curve, it is beginner-friendly and provides extensive documentation and a supportive community to help you get started.
-
-With Hugo, you can create a fast, flexible, and beautiful website without the need for a database or server-side scripting. It's highly customizable, free and open-source, and suitable for building large websites. With built-in SEO features and the ability to integrate with content management systems, Hugo is a powerful tool for creating a wide range of websites.
 
 ## Conclusion
 
