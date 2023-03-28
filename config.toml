@@ -12,9 +12,9 @@ disqusShortname = 'LiveAmar'   # use disqus comments
 
 
   # home page profile
-  avatar = 'https://scontent.fdbd1-1.fna.fbcdn.net/v/t39.30808-6/336192244_574404417981681_5826333750976862255_n.jpg'                 # gravatar email or image url
+  avatar = 'itsofficialamar@gmail.com'                 # gravatar email or image url
   name = 'Amar Murmu'
-  bio = 'Im a developer who also enjoys to be creative'
+  bio = 'Im a developer who also enjoys to be creative.'
 
 
   # misc
@@ -22,3 +22,54 @@ disqusShortname = 'LiveAmar'   # use disqus comments
   monoDarkIcon = false                       # show monochrome dark mode icon
   graphCommentId = "LiveAmar"  # use graph comment (disqus alternative)
   comments = false                          # disable comments for a specific page
+
+  [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
+
