@@ -10,11 +10,15 @@ disqusShortname = 'LiveAmar'   # use disqus comments
   # color style
   color = 'linen'                           # linen, wheat, gray, light
 
+  # social network
+   github = 'LiveAmar'
+  instagram = 'itsofficialamar'
+
 
   # home page profile
-  avatar = 'itsofficialamar@gmail.com'                 # gravatar email or image url
+  avatar = '/img/profile.jpg'                 # gravatar email or image url
   name = 'Amar Murmu'
-  bio = 'Im a developer who also enjoys to be creative.'
+  bio = "I'm a developer who also enjoys to be creative."
 
 
   # misc
