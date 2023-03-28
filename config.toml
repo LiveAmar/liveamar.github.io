@@ -18,15 +18,15 @@ disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
   rss = true                                # show rss icon
 
   # home page profile
-  avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
-  name = 'YOUR_NAME'
-  bio = 'YOUR_BIO'
+  avatar = 'https://scontent.fdbd1-1.fna.fbcdn.net/v/t39.30808-6/336192244_574404417981681_5826333750976862255_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=8IOR4aMXUGgAX_2bch8&_nc_ht=scontent.fdbd1-1.fna&oh=00_AfDn8GQWSdCpGGH0yd-wXZEwj29qx9AvMKw2giR38wY2nw&oe=64289E79'                 # gravatar email or image url
+  name = 'Amar Murmu'
+  bio = 'I'm a developer who also enjoys to be creative.'
 
 
   # misc
   disableHLJS = true                        # disable highlight.js
   monoDarkIcon = true                       # show monochrome dark mode icon
   gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
-  graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
+  graphCommentId = "LiveAmar"  # use graph comment (disqus alternative)
 
-  comments = false                            # disable comments for a specific page
+  comments = true                            # disable comments for a specific page

@@ -3,8 +3,6 @@ title: "Hugo: A Comprehensive Guide to the Fastest Static Site Generator"
 date: 2023-03-28T14:08:49+05:30
 ---
 
-# Hugo: A Fast and Flexible Static Site Generator
-
 If you're looking for a fast and flexible way to build a website, then you might want to check out Hugo. Hugo is a static site generator that can help you create a beautiful and responsive website without the need for a database or server-side scripting.
 
 ## What is Hugo?
