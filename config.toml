@@ -14,7 +14,7 @@ disqusShortname = 'LiveAmar'   # use disqus comments
   # home page profile
   avatar = 'https://scontent.fdbd1-1.fna.fbcdn.net/v/t39.30808-6/336192244_574404417981681_5826333750976862255_n.jpg'                 # gravatar email or image url
   name = 'Amar Murmu'
-  bio = 'I'm a developer who also enjoys to be creative.'
+  bio = 'Im a developer who also enjoys to be creative'
 
 
   # misc
