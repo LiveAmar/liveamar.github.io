@@ -21,5 +21,4 @@ disqusShortname = 'LiveAmar'   # use disqus comments
   disableHLJS = true                        # disable highlight.js
   monoDarkIcon = false                       # show monochrome dark mode icon
   graphCommentId = "LiveAmar"  # use graph comment (disqus alternative)
-
-  comments = true                            # disable comments for a specific page
+  comments = false                          # disable comments for a specific page
