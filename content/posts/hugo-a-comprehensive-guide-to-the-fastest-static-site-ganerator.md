@@ -50,7 +50,6 @@ Yes, you can use your own domain name with a Hugo website.
 
 Yes, Hugo is suitable for building large websites as it can handle thousands of pages and has a fast build time.
 
-
 ## Conclusion
 
 If you're looking for a fast, flexible, and easy-to-use website builder, then Hugo is definitely worth checking out. Its simplicity and customization options make it an excellent choice for developers and non-developers alike. With Hugo, you can create a beautiful and responsive website in no time.
