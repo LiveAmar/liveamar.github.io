@@ -4,29 +4,22 @@ title = 'LiveAmar'
 
 theme = "paper"
 
-disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
+disqusShortname = 'LiveAmar'   # use disqus comments
 
 [params]
   # color style
   color = 'linen'                           # linen, wheat, gray, light
 
-  # header social icons
-  twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
-  github = 'YOUR_GITHUB_ID'                 # github.com/YOUR_GITHUB_ID
-  instagram = 'YOUR_INSTAGRAM_ID'           # instagram.com/YOUR_INSTAGRAM_ID
-  mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
-  rss = true                                # show rss icon
 
   # home page profile
-  avatar = 'https://scontent.fdbd1-1.fna.fbcdn.net/v/t39.30808-6/336192244_574404417981681_5826333750976862255_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=8IOR4aMXUGgAX_2bch8&_nc_ht=scontent.fdbd1-1.fna&oh=00_AfDn8GQWSdCpGGH0yd-wXZEwj29qx9AvMKw2giR38wY2nw&oe=64289E79'                 # gravatar email or image url
+  avatar = 'https://scontent.fdbd1-1.fna.fbcdn.net/v/t39.30808-6/336192244_574404417981681_5826333750976862255_n.jpg'                 # gravatar email or image url
   name = 'Amar Murmu'
   bio = 'I'm a developer who also enjoys to be creative.'
 
 
   # misc
   disableHLJS = true                        # disable highlight.js
-  monoDarkIcon = true                       # show monochrome dark mode icon
-  gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
+  monoDarkIcon = false                       # show monochrome dark mode icon
   graphCommentId = "LiveAmar"  # use graph comment (disqus alternative)
 
   comments = true                            # disable comments for a specific page
