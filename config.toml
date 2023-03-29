@@ -4,7 +4,7 @@ title = 'LiveAmar'
 
 theme = "paper"
 
-disqusShortname = 'LiveAmar'   # use disqus comments
+
 
 [params]
   # color style
@@ -20,6 +20,12 @@ disqusShortname = 'LiveAmar'   # use disqus comments
   name = 'Amar Murmu'
   bio = "I'm a developer who also enjoys to be creative."
 
+  # misc
+  disableHLJS = true                        # disable highlight.js
+  monoDarkIcon = false                       # show monochrome dark mode icon
+  graphCommentId = "LiveAmar"  # use graph comment (disqus alternative)
+  comments = false                          # disable comments for a specific page
+  
   [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
