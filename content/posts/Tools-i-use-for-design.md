@@ -1,7 +1,6 @@
 ---
 title: "Tools I Use for Design in 2023"
 date: 2023-04-06T19:35:42+05:30
-draft: true
 ---
 
 
